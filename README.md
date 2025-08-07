@@ -10,7 +10,6 @@ Each project is small, fun, and a great way to practice problem-solving with cod
 | Project Name            | Description                                      |
 |------------------------|--------------------------------------------------|
 | 🎮 Flappy Bird          | A Python clone of the classic Flappy Bird game using Pygame |
-| 🧠 Jarvis AI            | A voice-controlled AI assistant made with Python |
 | 🔐 Password Generator   | Generates strong, secure passwords automatically |
 | 💸 Expense Tracker      | Track and manage expenses using a simple CLI app |
 | 💕 Love Calculator      | Fun project that calculates name compatibility |
